@@ -1,11 +1,12 @@
 body {
   text-align: center;
+  background-color: white;
+  font-family: "Helvetica"; sans-serif;
 }
 .header {
   background: url("../images/the-flatiron-building.png");
   background-size: cover;
   background-position: center;
-  font: Helvetica;
   color: white;
 }
 h1 {
@@ -15,4 +16,26 @@ h1 {
 a {
   font-size: 18px;
   color: white;
+}
+.main {
+  font: Helvetica;
+  font-weight: bold;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+  font-weight: normal;
+}
+.newyork {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background: url("../images/the-flatiron-building.png");
+  background-position: center;
+  background-size: cover;
 }
