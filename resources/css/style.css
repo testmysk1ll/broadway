@@ -39,3 +39,11 @@ p {
   background-position: center;
   background-size: cover;
 }
+.footer {
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+}
+p.footer1 {
+  font-size: 11px;
+}
